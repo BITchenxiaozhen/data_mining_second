@@ -1,0 +1,43 @@
+Existing Units 349
+Plansets 9
+Permit Type Definition 8
+Zipcode 28
+Supervisor District 12
+Location 57605
+Lot 1055
+Number of Proposed Stories 65
+Street Number Suffix 19
+Voluntary Soft-Story Retrofit 2
+Description 134273
+Proposed Construction Type 6
+Current Status 14
+Permit Type 8
+Filed Date 1288
+TIDF Compliance 3
+Street Number 5099
+Existing Construction Type Description 6
+Structural Notification 2
+Proposed Use 95
+Permit Creation Date 1291
+Fire Only Permit 2
+Revised Cost 12630
+Number of Existing Stories 65
+Issued Date 1290
+Proposed Construction Type Description 6
+Existing Use 94
+Street Suffix 22
+Block 4896
+Street Name 1704
+Existing Construction Type 6
+Permit Expiration Date 2233
+Permit Number 181495
+First Construction Document Date 1289
+Completed Date 1301
+Neighborhoods - Analysis Boundaries 42
+Unit Suffix 165
+Site Permit 2
+Proposed Units 369
+Current Status Date 1307
+Record ID 198900
+Unit 661
+Estimated Cost 11396

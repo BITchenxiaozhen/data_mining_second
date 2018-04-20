@@ -1,0 +1,22 @@
+Permit Type	 8
+Permit Type Definition	 8
+Street Number Suffix	 18
+Street Suffix	 21
+Current Status	 14
+Structural Notification	 1
+Number of Existing Stories	 64
+Number of Proposed Stories	 64
+Voluntary Soft-Story Retrofit	 1
+Fire Only Permit	 1
+Existing Use	 93
+Proposed Use	 94
+Plansets	 8
+TIDF Compliance	 2
+Existing Construction Type	 5
+Existing Construction Type Description	 5
+Proposed Construction Type	 5
+Proposed Construction Type Description	 5
+Site Permit	 1
+Supervisor District	 11
+Neighborhoods - Analysis Boundaries	 41
+Zipcode	 27
